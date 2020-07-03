@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B2A275E1-1EA0-4220-8421-BB884A5D1CEA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/DatosController.cs">
+    <Files>
+      <File FileName="Controllers/DatosController.cs" Line="101" Column="18" />
+      <File FileName="Startup.cs" Line="33" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiRest" expanded="True">
+            <Node name="ApiRest" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DatosController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ApiRest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
